@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "2022 in Review"
+date:   2022-12-25 08:12:59 -0800
+categories: christmas
+---
+
+![Adam & Andrea on Little Si](media/2022/a&a little si.jpg){ width=60% }

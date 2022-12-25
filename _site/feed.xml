@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Shirey Family</title>
+    <description>Some stuff about us</description>
+    <link>https://aeshirey.github.io/family/</link>
+    <atom:link href="https://aeshirey.github.io/family/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 25 Dec 2022 08:55:05 -0800</pubDate>
+    <lastBuildDate>Sun, 25 Dec 2022 08:55:05 -0800</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>2022 in Review</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;language-rust highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;hello&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;media/2022/a&amp;amp;a little si.jpg&quot; alt=&quot;a&amp;amp;a little si&quot; /&gt;
+&lt;img src=&quot;media/2022/a&amp;amp;a seahawks.jpg&quot; alt=&quot;a&amp;amp;a seahawks&quot; /&gt;
+&lt;img src=&quot;media/2022/a&amp;amp;a trivia.jpg&quot; alt=&quot;a&amp;amp;a trivia&quot; /&gt;
+&lt;img src=&quot;media/2022/a&amp;amp;a.jpg&quot; alt=&quot;a&amp;amp;a&quot; /&gt;
+&lt;img src=&quot;media/2022/amsterdam.jpg&quot; alt=&quot;amsterdam&quot; /&gt;
+&lt;img src=&quot;media/2022/andrea &amp;amp; reed.jpg&quot; alt=&quot;andrea &amp;amp; reed&quot; /&gt;
+&lt;img src=&quot;media/2022/choir concert.jpg&quot; alt=&quot;choir concert&quot; /&gt;
+&lt;img src=&quot;media/2022/climbing.jpg&quot; alt=&quot;climbing&quot; /&gt;
+&lt;img src=&quot;media/2022/hofbrauhaus.jpg&quot; alt=&quot;hofbrauhaus&quot; /&gt;
+&lt;img src=&quot;media/2022/jake &amp;amp; dylan.jpg&quot; alt=&quot;jake &amp;amp; dylan&quot; /&gt;
+&lt;img src=&quot;media/2022/jake 9th grade.jpg&quot; alt=&quot;jake 9th grade&quot; /&gt;
+&lt;img src=&quot;media/2022/jake and reed trivia.jpg&quot; alt=&quot;jake and reed trivia&quot; /&gt;
+&lt;img src=&quot;media/2022/jake chopping.jpg&quot; alt=&quot;jake chopping&quot; /&gt;
+&lt;img src=&quot;media/2022/klondike.jpg&quot; alt=&quot;klondike&quot; /&gt;
+&lt;img src=&quot;media/2022/monte cristo 1.jpg&quot; alt=&quot;monte cristo 1&quot; /&gt;
+&lt;img src=&quot;media/2022/monte cristo 2.jpg&quot; alt=&quot;monte cristo 2&quot; /&gt;
+&lt;img src=&quot;media/2022/olympic hiking trip.jpg&quot; alt=&quot;olympic hiking trip&quot; /&gt;
+&lt;img src=&quot;media/2022/patio swings.jpg&quot; alt=&quot;patio swings&quot; /&gt;
+&lt;img src=&quot;media/2022/reed 8th grade.jpg&quot; alt=&quot;reed 8th grade&quot; /&gt;
+&lt;img src=&quot;media/2022/reed cooking collage.jpg&quot; alt=&quot;reed cooking collage&quot; /&gt;
+&lt;img src=&quot;media/2022/reed fish.jpg&quot; alt=&quot;reed fish&quot; /&gt;
+&lt;img src=&quot;media/2022/reed hammock gear.jpg&quot; alt=&quot;reed hammock gear&quot; /&gt;
+&lt;img src=&quot;media/2022/scotch.jpg&quot; alt=&quot;scotch&quot; /&gt;
+&lt;img src=&quot;media/2022/shasta collage.jpg&quot; alt=&quot;shasta collage&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Dec 2022 08:12:59 -0800</pubDate>
+        <link>https://aeshirey.github.io/family/jekyll/update/2022/12/25/2022-in-review.html</link>
+        <guid isPermaLink="true">https://aeshirey.github.io/family/jekyll/update/2022/12/25/2022-in-review.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
